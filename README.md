@@ -65,3 +65,4 @@ echo [SUCESSO ABSOLUTO] PC 100% Otimizado e Acelerado com Sucesso!
 echo =================================================================
 timeout /t 6 >nul
 exit
+
